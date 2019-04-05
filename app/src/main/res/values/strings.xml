@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PeliDex00060917</string>
+    <string name="movie_name_string">Buscar pelicula</string>
+    <string name="movie_title_string">Title</string>
+    <string name="rate_ex_string">5.0</string>
+    <string name="lorem_30_string">lorem</string>
+    <string name="runtime_ex_string">runtiume</string>
+
+</resources>
